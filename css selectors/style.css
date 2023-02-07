@@ -1,0 +1,54 @@
+/* *{
+   font-family: monospace;
+} */
+html{
+    font-size: 22px;
+}
+
+
+
+body{
+    
+}
+
+main {
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+button , input , textarea , select {
+    font: inherit;
+}
+
+
+
+h1,h2{
+    color: blue;
+}
+
+p{
+    color: purple;
+}
+
+p{
+    color: red;
+}
+
+
+
+/* p span{
+    text-transform: uppercase;
+    background-color:gold;;
+} */
+
+.highlight{
+    text-transform: uppercase;
+    background-color:gold;;
+}
+
+.gray{
+    color:gray;
+}
+
+#second{
+    font-style: italic;
+}
